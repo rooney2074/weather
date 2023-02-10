@@ -1,0 +1,13 @@
+body{
+    background: rgb(11,191,209);
+background: linear-gradient(90deg, rgba(11,191,209,1) 26%, rgba(172,228,235,1) 82%);
+
+}
+#vessel{
+    padding: 100px;
+}
+#back{
+    background-image: url('https://wallpaperaccess.com/full/58341.jpg');
+    height: 150px;
+    background-size: cover;
+}
